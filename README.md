@@ -1,0 +1,1 @@
+utviklet en valg komitee som er med på å gi en effektiv løsning på hvordan stemmer blir lagret i databasen og gir en print som forklarer din aktivitet i løsningen og hvor mange stemmer hver kandidat har etter din stemme. 
